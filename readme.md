@@ -7,8 +7,8 @@ Este é o meu repositório para acompanhar o curso "CS50's Web Programming with 
 Meu objetivo é aprender os seguintes tópicos até o fim do curso:
 - HTML, CSS [✔️]
 - Git [✔️]
-- Python[✔️]
-- Django
+- Python [✔️]
+- Django [✔️]
 - SQL, Models, and Migrations
 - JavaScript
 - User Interfaces
