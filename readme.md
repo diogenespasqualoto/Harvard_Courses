@@ -17,5 +17,3 @@ Meu objetivo é aprender os seguintes tópicos até o fim do curso:
 
 Fique à vontade para acompanhar meu progresso neste repositório.
 
-
-PAREI EM USERS
