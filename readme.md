@@ -11,6 +11,7 @@ Meu objetivo é aprender os seguintes tópicos até o fim do curso:
 - Django [✔️]
 - SQL, Models, and Migrations [✔️]
 - JavaScript
+  - 
 - User Interfaces
 - Testing, CI/CD
 - Scalability and Security
