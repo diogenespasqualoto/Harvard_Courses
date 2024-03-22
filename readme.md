@@ -16,4 +16,3 @@ Meu objetivo é aprender os seguintes tópicos até o fim do curso:
 - Scalability and Security
 
 Fique à vontade para acompanhar meu progresso neste repositório.
-
